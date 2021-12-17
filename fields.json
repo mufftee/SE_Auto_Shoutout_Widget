@@ -1,0 +1,15 @@
+{
+  "token": {
+    "type": "text",
+    "label": "JWT Token"
+  },
+  "usernames": {
+    "type": "text",
+    "label": "Usernames"
+  },
+  "message": {
+    "type": "text",
+    "label": "Shoutout Message",
+    "value": "Deine Nachricht mit {{user}} und der {{url}}"
+  }
+}
